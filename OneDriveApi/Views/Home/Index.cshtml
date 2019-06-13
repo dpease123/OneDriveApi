@@ -34,7 +34,7 @@
         <span><br />Hello @System.Security.Claims.ClaimsPrincipal.Current.FindFirst("name").Value;</span>
         <br /><br />
         @Html.ActionLink("See Your Claims", "Index", "Claims")
-        <br /><br />
+        <br /><br /> <h1>TEST TEST TEST</h1>
         @Html.ActionLink("Sign out", "SignOut", "Home")
     }
     @if (!string.IsNullOrWhiteSpace(Request.QueryString["errormessage"]))
