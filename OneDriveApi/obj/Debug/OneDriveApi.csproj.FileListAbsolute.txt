@@ -97,6 +97,8 @@ C:\code\OneDriveApi\OneDriveApi\bin\Microsoft.Owin.Security.Google.xml
 C:\code\OneDriveApi\OneDriveApi\bin\Microsoft.Owin.Security.Twitter.xml
 C:\code\OneDriveApi\OneDriveApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\code\OneDriveApi\OneDriveApi\bin\System.Web.Http.Owin.xml
-C:\code\OneDriveApi\OneDriveApi\obj\Debug\OneDriveApi.csprojResolveAssemblyReference.cache
 C:\code\OneDriveApi\OneDriveApi\obj\Debug\OneDriveApi.dll
 C:\code\OneDriveApi\OneDriveApi\obj\Debug\OneDriveApi.pdb
+C:\code\OneDriveApi\OneDriveApi\obj\Debug\OneDriveApi.csprojAssemblyReference.cache
+C:\code\OneDriveApi\OneDriveApi\obj\Debug\OneDriveApi.csproj.CoreCompileInputs.cache
+C:\code\OneDriveApi\OneDriveApi\obj\Debug\OneDriveApi.csproj.CopyComplete
