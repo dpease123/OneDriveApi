@@ -32,7 +32,7 @@
     else
     {
         <span><br />Hello @System.Security.Claims.ClaimsPrincipal.Current.FindFirst("name").Value;</span>
-        <br /><br /><h1>I'm a code change...</h1>
+        <br /><br />
         @Html.ActionLink("See Your Claims", "Index", "Claims")
         <br /><br />
         @Html.ActionLink("Sign out", "SignOut", "Home")
